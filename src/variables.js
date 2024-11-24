@@ -1,3 +1,23 @@
+/*
+| Nome                | Exemplo                 | Usos Comuns                |
+|---------------------|-------------------------|----------------------------|
+| PascalCase          | MinhaVariavel           | Classes, tipos, namespaces |
+| camelCase           | minhaVariavel           | Variáveis, funções         |
+| snake_case          | minha_variavel          | Variáveis, funções (Python)|
+| kebab-case          | minha-variavel          | CSS classes, URLs          |
+| SCREAMING_SNAKE_CASE| MINHA_VARIAVEL          | Constantes                 |
+| flatcase            | minhavarivel            | Pacotes, identificadores   |
+*/
+
+/* Exemplos de uso:
+ * PascalCase: ClasseExemplo, NomeCompleto
+ * camelCase: variavelExemplo, nomeCompleto
+ * snake_case: variavel_exemplo, nome_completo
+ * kebab-case: variavel-exemplo, nome-completo
+ * SCREAMING_SNAKE_CASE: CONSTANTE_EXEMPLO, NOME_COMPLETO
+ * flatcase: variavelexemplo, nomecompleto
+ */
+
 var yourName = "João Batista";
 var age;
 let weight = 120;
