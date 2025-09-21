@@ -1,6 +1,20 @@
-# Basic JavaScript Course
+<div align="center">
+
+<h1 align="center">Curso Básico de JavaScript</h1>
+
+### Informações
+
+![Instituição](https://img.shields.io/badge/Instituição-OneBitCode-0078D4?style=for-the-badge&logo=azuredevops)
+![Curso](https://img.shields.io/badge/Curso-JavaScript-4B8BBE?style=for-the-badge&logo=github)
+![Professor](https://img.shields.io/badge/Prof.Isaac%20Pontes-FFCA28?style=for-the-badge&logo=linkedin)
+
+**Instituição:** [OneBitCode](https://onebitcode.com/) 
+**Curso:** Introdução ao JavaScript
+**Professor:** [Isaac Pontes](https://www.linkedin.com/in/isaac-pontes/)
 
 Repositório do curso introdutório de JavaScript, com foco em fundamentos essenciais da linguagem e exemplos práticos para quem está começando no desenvolvimento web.
+
+</div>
 
 ---
 
