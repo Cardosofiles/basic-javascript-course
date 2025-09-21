@@ -1,18 +1,18 @@
-<div align="center">
+<<div align="center">
 
-<h1 align="center">Curso Básico de JavaScript</h1>
+<h1 align="center">🚀 Curso Básico de JavaScript</h1>
 
 ### Informações
 
 ![Instituição](https://img.shields.io/badge/Instituição-OneBitCode-0078D4?style=for-the-badge&logo=azuredevops)
 ![Curso](https://img.shields.io/badge/Curso-JavaScript-4B8BBE?style=for-the-badge&logo=github)
-![Professor](https://img.shields.io/badge/Prof.Isaac%20Pontes-FFCA28?style=for-the-badge&logo=linkedin)
+![Coordenador](https://img.shields.io/badge/Coord.-Milton%20Miranda%20Neto-FFCA28?style=for-the-badge&logo=linkedin)
 
-**Instituição:** [OneBitCode](https://onebitcode.com/) 
-**Curso:** Introdução ao JavaScript
+**Instituição:** [OneBitCode](https://onebitcode.com/)  
+**Curso:** Introdução ao JavaScript  
 **Professor:** [Isaac Pontes](https://www.linkedin.com/in/isaac-pontes/)
 
-Repositório do curso introdutório de JavaScript, com foco em fundamentos essenciais da linguagem e exemplos práticos para quem está começando no desenvolvimento web.
+Este repositório contém meus estudos, anotações e exercícios realizados durante a disciplina de Engenharia de Software. O objetivo é registrar o progresso ao longo do semestre, facilitando a inclusão de novos conteúdos conforme as aulas avançam.
 
 </div>
 
@@ -60,15 +60,18 @@ basic-javascript-course/
 ### Passo a Passo
 
 1. **Clone o repositório**
+
    ```bash
    git clone https://github.com/Cardosofiles/basic-javascript-course.git
    cd basic-javascript-course
    ```
 
 2. **(Opcional) Instale as dependências**
+
    ```bash
    npm install
    ```
+
    > Apenas se o projeto utilizar dependências externas (verifique o arquivo `package.json`).
 
 3. **Acesse os exemplos**
